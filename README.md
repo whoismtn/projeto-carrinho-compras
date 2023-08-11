@@ -26,7 +26,9 @@ Para instalar as dependências do projeto após clonar o repositório, execute o
 ```
 npm install
 ```
+## 🎉 Deploy 
 
+<a href ="https://projeto-carrinho-compras.vercel.app/"> Ver Projeto </a>
 
 
 
